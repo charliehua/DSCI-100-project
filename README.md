@@ -3,8 +3,7 @@
 ## GOALS
 
 What are our team goals for this project?
-Using the skills we learn in this course, we will formulate a question about___, and answer with data science as tool.
-
+- Using the skills we learn in this course, we will formulate a question about___, and answer with data science as tool.
 
 What do we want to accomplish?
 What skills do we want to develop or refine?
@@ -29,3 +28,5 @@ What rules can we agree on to help us meet our goals and expectations?
 ## CONSEQUENCES:
 
 How will we address non-performance regarding these goals, expectations, policies and procedures?
+- Communicate what the issue may be
+- Address the problems as a 
