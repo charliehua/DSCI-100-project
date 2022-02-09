@@ -1,21 +1,22 @@
 # DSCI-100-project
 
-GOALS
+## GOALS
 
 What are our team goals for this project?
 Using the skills we learn in this course, we will formulate a question about___, and answer with data science as tool.
 What do we want to accomplish?
 What skills do we want to develop or refine?
-EXPECTATIONS:
+
+## EXPECTATIONS:
 
 What do we expect of one another regarding attendance at meetings, participation, frequency of communication, quality of work, etc.?
-If everyone agrees with a meeting time, then show up.
-If communication is needed to complete a project deliverable, then be available to your group members.
-Contribute to the group project without having someone to fix bugs for your work.
+- If everyone agrees with a meeting time, then show up.
+- If communication is needed to complete a project deliverable, then be available to your group members.
+- Contribute to the group project without having someone to fix bugs for your work.
 
-POLICIES & PROCEDURES:
+## POLICIES & PROCEDURES:
 
 What rules can we agree on to help us meet our goals and expectations?
-CONSEQUENCES:
+## CONSEQUENCES:
 
 How will we address non-performance regarding these goals, expectations, policies and procedures?
