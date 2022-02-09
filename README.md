@@ -26,6 +26,6 @@ What rules can we agree on to help us meet our goals and expectations?
 - Do one's share of the work.
 - Keep updating other's work even when you're done with your share.
 
-CONSEQUENCES:
+## CONSEQUENCES:
 
 How will we address non-performance regarding these goals, expectations, policies and procedures?
