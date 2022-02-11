@@ -2,7 +2,6 @@
 
 **Group:** DSCI100-006-014
 <br>
-<br>
 **Date:**  02/11/2022
 <br>
 <br>
@@ -43,22 +42,26 @@ What rules can we agree on to help us meet our goals and expectations?
 How will we address non-performance regarding these goals, expectations, policies and procedures?
 - Set up meetings ASAP to discuss what the issue might be. 
 - Make adjustment to our projects or requirements to prevent it from happening again.
-<br>
-<br>
-<br>
+
+
+<br><br><br>
 *We share these goals and expectations, and agree to these policies, procedures, and consequences.*
-<br>
+<br><br>
 Team member: Hancheng Zhang(Hansen)
+<br>
 Signature: Hancheng Zhang
-<br>
-<br>
-Team Member: 
-Signature:
-<br>
-<br>
+<br><br>
+
 Team Member:
+<br>
 Signature:
-<br>
-<br>
+<br><br>
+
 Team Member:
+<br>
+Signature:
+<br><br>
+
+Team Member:
+<br>
 Signature:
