@@ -2,9 +2,9 @@
 
 **Group:** DSCI100-006-014
 **Date:**  02/11/2022
-
-
-
+<br>
+<br>
+<br>
 ## GOALS
 
 What are our team goals for this project? What do we want to accomplish?
@@ -41,19 +41,19 @@ What rules can we agree on to help us meet our goals and expectations?
 How will we address non-performance regarding these goals, expectations, policies and procedures?
 - Set up meetings ASAP to discuss what the issue might be. 
 - Make adjustment to our projects or requirements to prevent it from happening again.
-
-
-
+<br>
+<br>
+<br>
 *We share these goals and expectations, and agree to these policies, procedures, and consequences.*
-
+<br>
 Team member: Hancheng Zhang(Hansen)
 Signature: Hancheng Zhang
-
+<br>
 Team Member: 
 Signature:
-
+<br>
 Team Member:
 Signature:
-
+<br>
 Team Member:
 Signature:
