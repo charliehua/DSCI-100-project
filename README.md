@@ -1,12 +1,22 @@
 # DSCI-100-project
 
+**Group:** DSCI100-006-014
+**Date:**  02/11/2022
+
+
+
 ## GOALS
 
-What are our team goals for this project?
-- Using the skills we learn in this course, we will formulate a question about___, and answer with data science as tool.
+What are our team goals for this project? What do we want to accomplish?
+- Using the data science skills we learn in this course, we want to do some professional reseach/analysis on a dataset and create a high quility project.
+- During the teamwork session, we want to build a good relationship with each other and learn to work effecient as a team.
 
-What do we want to accomplish?
+
 What skills do we want to develop or refine?
+- Teamwork skills
+- Research skills
+- Data Analysis skills
+
 ## EXPECTATIONS:
 
 What do we expect of one another regarding attendance at meetings, participation, frequency of communication, quality of work, etc.?
@@ -24,9 +34,26 @@ What rules can we agree on to help us meet our goals and expectations?
 - We must follow the deadlines given.
 - Do one's share of the work.
 - Keep updating other's work even when you're done with your share.
+- If you have some new ideas or concerns, communicate with group members.
 
 ## CONSEQUENCES:
 
 How will we address non-performance regarding these goals, expectations, policies and procedures?
-- Communicate what the issue may be
-- Address the problems as a 
+- Set up meetings ASAP to discuss what the issue might be. 
+- Make adjustment to our projects or requirements to prevent it from happening again.
+
+
+
+*We share these goals and expectations, and agree to these policies, procedures, and consequences.*
+
+Team member: Hancheng Zhang(Hansen)
+Signature: Hancheng Zhang
+
+Team Member: 
+Signature:
+
+Team Member:
+Signature:
+
+Team Member:
+Signature:
