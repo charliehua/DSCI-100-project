@@ -1,6 +1,8 @@
 # DSCI-100-project
 
 **Group:** DSCI100-006-014
+<br>
+<br>
 **Date:**  02/11/2022
 <br>
 <br>
@@ -49,11 +51,14 @@ How will we address non-performance regarding these goals, expectations, policie
 Team member: Hancheng Zhang(Hansen)
 Signature: Hancheng Zhang
 <br>
+<br>
 Team Member: 
 Signature:
 <br>
+<br>
 Team Member:
 Signature:
+<br>
 <br>
 Team Member:
 Signature:
