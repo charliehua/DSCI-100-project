@@ -52,9 +52,9 @@ Team member: Hancheng Zhang(Hansen)
 Signature: Hancheng Zhang
 <br><br>
 
-Team Member:
+Team Member: Charlie Hua
 <br>
-Signature:
+Signature: Charlie Hua
 <br><br>
 
 Team Member:
