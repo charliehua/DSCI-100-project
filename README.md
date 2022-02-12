@@ -57,9 +57,9 @@ Team Member: Charlie Hua
 Signature: Charlie Hua
 <br><br>
 
-Team Member:
+Team Member: Callie Phelps
 <br>
-Signature:
+Signature: Callie Phelps
 <br><br>
 
 Team Member:
