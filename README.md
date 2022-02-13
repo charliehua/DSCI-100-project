@@ -62,6 +62,6 @@ Team Member: Callie Phelps
 Signature: Callie Phelps
 <br><br>
 
-Team Member:
+Team Member: Dorothy Ger
 <br>
-Signature:
+Signature: Dorothy Ger
